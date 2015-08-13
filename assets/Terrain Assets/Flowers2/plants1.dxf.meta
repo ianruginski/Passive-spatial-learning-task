@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: b008181c328a6b84084d9d8da0a53151
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Newplan_1InfInt
+    100002: Newplan_1Pdcel
+    100004: Newplan_1Pdncle
+    100006: Newplan_1stLeaf
+    100008: Newplan_1stPetiole
+    100010: Newplan_FruitR
+    100012: Newplan_FruitR_MeshPart0
+    100014: Newplan_FruitR_MeshPart1
+    100016: Newplan_Intrnd
+    100018: Newplan_Leaf
+    100020: Newplan_Petiole
+    100022: Newplan_Root
+    100024: Newplan_Stipule
+    100026: //RootNode
+    400000: Newplan_1InfInt
+    400002: Newplan_1Pdcel
+    400004: Newplan_1Pdncle
+    400006: Newplan_1stLeaf
+    400008: Newplan_1stPetiole
+    400010: Newplan_FruitR
+    400012: Newplan_FruitR_MeshPart0
+    400014: Newplan_FruitR_MeshPart1
+    400016: Newplan_Intrnd
+    400018: Newplan_Leaf
+    400020: Newplan_Petiole
+    400022: Newplan_Root
+    400024: Newplan_Stipule
+    400026: //RootNode
+    2300000: Newplan_1InfInt
+    2300002: Newplan_1Pdcel
+    2300004: Newplan_1Pdncle
+    2300006: Newplan_1stLeaf
+    2300008: Newplan_1stPetiole
+    2300010: Newplan_FruitR_MeshPart0
+    2300012: Newplan_FruitR_MeshPart1
+    2300014: Newplan_Intrnd
+    2300016: Newplan_Leaf
+    2300018: Newplan_Petiole
+    2300020: Newplan_Root
+    2300022: Newplan_Stipule
+    3300000: Newplan_1InfInt
+    3300002: Newplan_1Pdcel
+    3300004: Newplan_1Pdncle
+    3300006: Newplan_1stLeaf
+    3300008: Newplan_1stPetiole
+    3300010: Newplan_FruitR_MeshPart0
+    3300012: Newplan_FruitR_MeshPart1
+    3300014: Newplan_Intrnd
+    3300016: Newplan_Leaf
+    3300018: Newplan_Petiole
+    3300020: Newplan_Root
+    3300022: Newplan_Stipule
+    4300000: Newplan_1InfInt
+    4300002: Newplan_1Pdcel
+    4300004: Newplan_1Pdncle
+    4300006: Newplan_1stLeaf
+    4300008: Newplan_1stPetiole
+    4300010: Newplan_FruitR_MeshPart0
+    4300012: Newplan_FruitR_MeshPart1
+    4300014: Newplan_Intrnd
+    4300016: Newplan_Leaf
+    4300018: Newplan_Petiole
+    4300020: Newplan_Root
+    4300022: Newplan_Stipule
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

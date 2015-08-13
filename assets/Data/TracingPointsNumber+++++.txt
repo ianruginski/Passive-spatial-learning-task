@@ -1,0 +1,3 @@
+Object Name:ObjectName    Position:(1314.4, 30.9, 1585.7)
+Object Name:ObjectName    Position:(928.5, 30.9, 1294.3)
+Object Name:ObjectName    Position:(745.6, 30.9, 1085.7)

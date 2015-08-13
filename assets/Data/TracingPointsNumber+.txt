@@ -1,0 +1,1 @@
+Object Name:kutta    Position:(0.0, 0.0, 0.0)Object Name:bill    Position:(0.0, 0.0, 0.0)Object Name:sa    Position:(0.0, 0.0, 0.0)Object Name:kutta    Position:(0.0, 0.0, 0.0)Object Name:bill    Position:(0.0, 0.0, 0.0)Object Name:sa    Position:(0.0, 0.0, 0.0)
